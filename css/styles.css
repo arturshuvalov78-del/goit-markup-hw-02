@@ -1,0 +1,115 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #FFFFFF;
+    font-weight: Regular;
+    cursor: pointer;
+}
+
+.header .header-logo {
+    font-family: Raleway, sans-serif;
+    text-decoration: none;
+    color: #434455;
+    font-weight: bold;
+    font-size: 56 px;
+    line-height: 60px;
+    
+}
+
+.header .header-logo span {
+    color: #4D5AE5;
+}
+
+.header .header-logo:hover, .header .header-logo:focus {
+    text-decoration: underline;
+}
+
+.header .header-item {
+   text-decoration: none;
+   color: #434455;
+   font-size: 16px;
+   line-height: 20px;
+   font-weight: 500;
+
+}
+
+.header .header-item-info {
+    color: #434455;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+h1 {
+    color:#FFFFFF;
+    font-size: 40px;
+    text-align: center;
+}
+
+.hero .hero-button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+p {
+    font-style: normal;
+}
+
+.Team {
+    background-color: #E7E9FC;
+}
+
+.Team .Team-img {
+    background-color: #FFFFFF;
+}
+
+.Team .Team-name {
+    text-align: center;
+}
+
+.Team .Team-position {
+    text-align: center;
+}
+
+.Team .Team-title {
+    text-align: center;
+}
+
+.Portfolio {
+    text-align: center;
+}
+
+.footer .footer-logo {
+    font-family: Raleway, sans-serif;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 56 px;
+    line-height: 60px;
+}
+
+.footer .footer-logo span {
+    color: #4D5AE5;
+}
+
+.footer {
+    background-color: #434455;
+}
+
+.footer .footer-text {
+    color:#FFFFFF
+}
