@@ -1,0 +1,127 @@
+body {
+    font-family: Roboto sans-serif;
+    color: #2E2F42;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #FFFFFF;
+}
+
+.header .header-logo {
+    font-family: Raleway, sans-serif;
+    text-decoration: none;
+    color: #434455;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.17;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    
+}
+
+.header .header-logo span {
+    color: #4D5AE5;
+}
+
+.header .header-logo:hover, .header .header-logo:focus {
+    color: #404bbf;
+    text-decoration: none;
+}
+
+.header .header-item {
+   text-decoration: none;
+   color: #2E2F42;
+   font-size: 16px;
+   line-height: 1.5;
+   font-weight: 500;
+}
+
+.header .header-item-info {
+    color: #434455;
+}
+.header .header-item-info:hover, .header .header-item-info:focus {
+    color:#404bbf;
+}
+.address 
+    font-style: normal;
+{
+
+}
+ul {
+  list-style-type: none;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+h1 {
+    color:#FFFFFF;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+
+    text-align: center;
+}
+
+.hero .hero-button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+
+.hero .hero-button:hover, .hero .hero-button:focus {
+    background-color: #404bbf;
+}
+
+a {
+  text-decoration: none;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team .team-img {
+    background-color: #FFFFFF;
+}
+
+.team .team-name {
+    text-align: center;
+}
+
+.team .team-position {
+    text-align: center;
+}
+
+.team .team-title {
+    text-align: center;
+}
+
+.portfolio {
+    text-align: center;
+}
+
+.footer .footer-logo {
+    font-family: Raleway, sans-serif;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.17;
+}
+
+.footer .footer-logo span {
+    color: #4D5AE5;
+}
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer .footer-text {
+    color: #f4f4fd;
+}
